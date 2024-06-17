@@ -1,1 +1,1 @@
-SELECT * from person
+SELECT name FROM person
