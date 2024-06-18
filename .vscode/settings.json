@@ -9,6 +9,16 @@
             "name": "Customers ",
             "database": "persondb",
             "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8484,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "employees",
+            "database": "Bank_db",
+            "username": "postgres"
         }
     ]
 }
